@@ -1,1 +1,2 @@
 # sudmd
+hdismc
